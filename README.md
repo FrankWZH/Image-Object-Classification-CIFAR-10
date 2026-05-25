@@ -51,6 +51,7 @@ Image-Object-Classification-CIFAR-10/
 ├── utils/                  # Utility/helper functions
 ├── main.py                 # Main execution script
 ├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
